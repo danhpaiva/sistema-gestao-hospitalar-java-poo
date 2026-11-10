@@ -1,4 +1,4 @@
-# Exercício Prático Avançado: <br>Sistema de Gestão Hospitalar (POO em Java)
+# Exercício Prático: <br>Sistema de Gestão Hospitalar (POO em Java)
 
 **Disciplina:** Algoritmos e Programação  
 **Professor / Desenvolvedor:** Daniel Paiva<br>
