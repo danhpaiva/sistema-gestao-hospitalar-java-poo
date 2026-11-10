@@ -1,7 +1,7 @@
 # Exercício Prático Avançado: <br>Sistema de Gestão Hospitalar (POO em Java)
 
 **Disciplina:** Algoritmos e Programação  
-**Professor / Desenvolvedor:** Prof. Dr. Algoritmo  
+**Professor / Desenvolvedor:** Daniel Paiva
 **Objetivo:** Consolidar conceitos avançados de Programação Orientada a Objetos (POO) em Java — incluindo hierarquias complexas de herança, interfaces, polimorfismo, tratamento de exceções e relações de associação/agregação — através do desenvolvimento de um sistema corporativo robusto.
 
 ## 🏥 Contextualização do Problema
